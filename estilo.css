@@ -1,0 +1,27 @@
+:root {
+    --color: #01504A;
+}
+
+.nav_color {
+    background-color: var(--color);
+}
+
+.section {
+    height: calc(100vh - 40px) !important;
+}
+
+.title {
+    color: var(--color);
+}
+
+.imagen {
+    width: 60%
+}
+
+.option {
+    font-size: 14px;
+}
+
+.select:focus {
+    background-color: white;
+}
